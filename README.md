@@ -1,4 +1,5 @@
 ## Hi there 👋
+🌱 Currently enrolled in the Patika Fullstack Web Development Bootcamp to enhance my coding skills.
 
 <!--
 **senanuryy/senanuryy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
