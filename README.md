@@ -13,7 +13,6 @@
 
 # When I'm AFK <img src="https://github.com/user-attachments/assets/faa369f7-0c83-4bf8-af24-d2e4c946796e" alt="Sample Image" style="width:30%; height:auto;">
 
-![Kick](https://img.shields.io/badge/kick-53FC18?style=for-the-badge&logo=kick&logoColor=white)
-![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
+<a href="https://steamcommunity.com/profiles/76561198940814468/">
+  <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="SteanLogo" width="20%">
+</a>
