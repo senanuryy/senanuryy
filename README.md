@@ -1,4 +1,4 @@
-# Hi there <img src="https://github.com/user-attachments/assets/60bfffa6-ce9a-4206-9240-b1c1296784a2" alt="Sample Image" style="width:27%; height:auto;">
+# Hi There <img src="https://github.com/user-attachments/assets/60bfffa6-ce9a-4206-9240-b1c1296784a2" alt="Sample Image" style="width:27%; height:auto;">
 🌱 Currently enrolled in the Patika Fullstack Web Development Bootcamp to enhance my coding skills.
 
 <p align="left">
